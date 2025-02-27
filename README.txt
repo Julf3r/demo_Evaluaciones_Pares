@@ -11,12 +11,12 @@ Muestra solo la información del estudiante en formato de tabla.
 
 📂 Archivos
 
-📄 main.py → Genera el CSV.📄 evaluación_pares.csv → Contiene los datos.📄 Tabla.xlsx → Archivo de Excel con macros.
+📄 main.py → Genera el CSV.📄 evaluación_pares.csv → Contiene los datos.📄 Tabla.xlsm → Archivo de Excel con macros.
 
 🎯 Cómo Usarlo
 
 1️⃣ Ejecutar main.py para generar evaluación_pares.csv.
-2️⃣ Abrir Tabla.xlsx en Excel.
+2️⃣ Abrir Tabla.xlsm en Excel.
 3️⃣ Ingresar el Nombre y presionar el botón para ver la información.
 4️⃣Los nombres de prueba son: Juan, Jorge, Trinidad, Catalina.
 ¡Listo! 🎉
